@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2000<br>📚 I'm currently learning Computer Engineer<br>🎯 Goals: To Achieve a Trainee Job<br>🎲 Fun fact: I'm Amateur Music Producer</p>
+<p align="left">✨ Creating bugs since 2000<br>📚 I'm currently learning Computer Engineer<br>🎯 Goals: To Achieve a Jr Test Engineer position<br>🎲 Fun fact: I'm Music Producer</p>
 
 ###
 
